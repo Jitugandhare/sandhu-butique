@@ -8,7 +8,7 @@ const Home = () => {
     <div>
       <CustomCarousel/>
       <br />
-      <CardCarousel/>
+      {/* <CardCarousel/> */}
     </div>
   )
 }
